@@ -1,0 +1,58 @@
+.navbar .active {
+  text-decoration: underline;
+  font-weight: bold;
+  color: white !important;
+}
+
+.navbar * {
+  background-color: maroon;
+  color: white;
+}
+
+.navbar {
+  margin-bottom: 16px;
+}
+
+.header {
+  border-radius: 24px;
+  background-image: url("../img/elephant.jpg");
+  background-position-y: 85%;
+  margin-bottom: 16px;
+}
+
+.header-h1,
+.header-p {
+  padding: 16px;
+  border-radius: 24px;
+  background-color: maroon;
+  color: white;
+}
+
+.p-residents {
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 24px;
+}
+
+.card-body {
+  background-color: maroon;
+  color: white;
+}
+
+.carousel {
+  background-color: maroon;
+  text-align: center;
+  color: white;
+  padding: 12rem;
+  margin-bottom: 16px;
+}
+
+form .btn {
+  background-color: maroon;
+  color: white;
+  border: transparent;
+}
+
+form {
+  margin-top: 16px;
+}

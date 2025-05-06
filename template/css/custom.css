@@ -1,0 +1,14 @@
+.navbar .active {
+  text-decoration: underline;
+  font-weight: bold;
+  color: white !important;
+}
+
+.navbar * {
+  background-color: maroon;
+  color: white;
+}
+
+.navbar {
+  margin-bottom: 32px;
+}
