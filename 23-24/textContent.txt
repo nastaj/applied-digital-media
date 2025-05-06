@@ -1,0 +1,57 @@
+------- index.html -------
+Padded div heading: City of the Tribes
+Padded div paragraph: Galway is a city in the West of Ireland in the province of Connacht, otherwise known as the "City of the Tribes". Now there are many more tribes in this wonderful city, with the recent addition of its very own zoo!
+
+Column grid content is listed below...
+
+column1
+image: goat.jpg
+h5: Gary the Goat
+
+column2
+image: meerkat.jpg
+h5: Michael the Meerkat
+
+column3
+image: rhino.jpg
+h5: Robert the Rhino
+
+column4
+image: elephant.jpg
+h5: Elizabeth the Elephant
+				
+------- information.html -------
+
+--Carousel First Slide:
+<h1>Fun Fact</h1> 
+<p>Did you know that a group of goats may be referred to as a tribe? Ask any member of staff for one of our Fun Facts leaflets when you next come to visit us. Fun facts leaflets are completely free of charge and include a map of the zoo.</p>
+
+--Carousel Second Slide:
+<h1>African Plains</h1> 
+<p>African Plains is an Africa-themed area that covers 13 hectares and was opened in 2001. This area includes ostriches, scimitar-horned oryx, white rhinoceros, giraffes and common zebras, all of which share a large, outdoor paddock.</p>
+
+--Carousel Third Slide:
+<h1>World of Primates</h1> 
+<p>The World of Primates houses contain various species of apes and monkeys. The area comprises a string of man-made islands in a natural lake. The islands range in size from 15 to 30 square metres and are linked by wooden bridges to sleeping quarters on the lake shore.</p>
+
+<h2>The Carousel above brings to your attention some information regarding the Galway Zoo. Why not come along in person and find out more?</h2>
+
+
+------- competition.html -------
+<h3>Complete the quiz below to retrieve a code which you can quote on entering Galway Zoo to recieve a discount on your entrance fee.</h3>
+
+Question 1: 
+Q1. Which animal is known to spend 90% of its day sleeping?
+Choice of answers:
+-Lions
+-Donkeys
+-Koalas
+-Elephants
+
+Question 2: 
+Q2. What colour is the tongue of a giraffe?
+Choice of answers:
+-Purple
+-Green
+-Red
+-Orange
