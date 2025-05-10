@@ -1,0 +1,40 @@
+------- index.html -------
+Padded div image: nike_logo.jpg
+Padded div element heading: Nike
+Padded div element paragraph: Welcome to the Nike Store. We have some runners available in this store at reduced prices. If you are interested in purchasing any of the runners on offer, just enter the quantity you want and click the buy button. You may then go to the cart page, to see your order, and can complete your order on the checkout page. Thank you for visiting our online store.
+
+Column grid content is listed below...
+
+column1
+image: shoes-1.jpg
+paragraph 1: Nike X Comfort
+paragraph 2: Cost: €100
+
+column2
+image: shoes-2.jpg
+paragraph 1: Nike Night
+paragraph 2: Cost: €150
+				
+column3
+image: shoes-3.jpg
+paragraph 1: Nike Speed 100
+paragraph 2: Cost: €180
+
+column4
+image: shoes-4.jpg
+paragraph 1: Nike Zoom
+paragraph 2: Cost: €80
+				
+------- cart.html -------
+Padded div image: nike_logo.jpg
+Padded div element heading: Shopping Cart
+Padded div element paragraph: Check order details in the table below are correct. If not, return to the Home page to re-enter the order. To complete order, please proceed to the Checkout page.
+
+Copy text from image in exam paper for table
+
+------- about.html -------
+Padded div image: nike_logo.jpg
+Padded div element heading: Checkout
+Padded div element paragraph: Fill in details below to complete your order
+
+Copy text from image in exam paper for form

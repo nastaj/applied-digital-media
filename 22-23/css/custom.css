@@ -1,0 +1,17 @@
+.nav-pills {
+  margin-top: 16px;
+}
+
+.header {
+  border-radius: 16px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.col {
+  margin-bottom: 16px;
+}
+
+.card-body {
+  padding: 32px;
+}
