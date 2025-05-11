@@ -1,0 +1,21 @@
+.navbar {
+  margin-bottom: 20px;
+  padding-left: 20px;
+}
+
+.header {
+  border-radius: 30px;
+  margin-bottom: 30px;
+}
+
+.col {
+  margin-bottom: 30px;
+}
+
+.list-group {
+  margin-bottom: 20px;
+}
+
+.text-red {
+  color: red;
+}

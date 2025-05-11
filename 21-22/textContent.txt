@@ -1,0 +1,43 @@
+------- index.html -------
+Padded div element heading: Local Sports
+Padded div element paragraph: The Local Sports shop offers great deals on all sports wear, equipment and nutrition. Our prices are consistently lower than that of our competitors. Our staff pride themselves on providing excellent customer service.
+
+Column grid content is listed below...
+
+column1
+image: footwear.jpg
+h5: Footwear
+paragraph: Please click below to find out more about our range of womens and mens footwear for running, walking and climbing
+
+column2
+image: boots.jpg
+h5: Football Boots
+paragraph: Please click below to find out more about our range of football boots for grass pitches, astroturf and indoor football
+
+column3
+image: fitnessAccessories.jpg
+h5: Fitness Accessories
+paragraph: Please click below to find out more about our range of fitness accessories for all your training needs
+
+column4
+image: nutrition.jpg
+h5: Nutrition
+paragraph: Please click below to find out more about our range of nutrition products for before, during, and after exercise
+
+column5
+image: clothing.jpg
+h5: Clothing
+paragraph: Please click below to find out more about our range of womens and mens clothing for running, swimming and other sports
+
+column6
+image: gym.jpg
+h5: Gym Equipment
+paragraph: Please click below to find out more about our range of gym equipment. Weights, treadmills and other equipment available
+				
+				
+------- content.html -------
+Copy text from image in exam paper
+
+
+------- about.html -------
+Copy text from image in exam paper
